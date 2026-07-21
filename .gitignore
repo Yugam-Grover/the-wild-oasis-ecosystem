@@ -1,0 +1,28 @@
+
+# Dependencies
+**/node_modules/
+
+# Environment Variables
+**/.env
+**/.env.local
+
+# Build Outputs
+**/dist/
+**/.next/
+**/build/
+
+# Logs
+**/npm-debug.log*
+**/*.log
+
+# Test Coverage
+**/coverage/
+
+# Windows OS files
+Thumbs.db
+desktop.ini
+
+# OS / Editor Files
+.DS_Store
+**/.vscode/*
+!**/.vscode/extensions.json

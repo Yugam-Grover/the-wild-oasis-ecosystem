@@ -1,0 +1,10 @@
+{
+  "extends": "react-app",
+  "rules": {
+    "no-unused-vars": "warn",
+    "no-undef": "error",
+    "react/jsx-uses-react": "error",
+    "react/jsx-uses-vars": "error",
+    "react/prop-types": "off"
+  }
+}
